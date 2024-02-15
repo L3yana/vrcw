@@ -8,10 +8,10 @@
     See the ReadMe in the language?
   </header>
   <li>
-    <a href="#English">English</a>
+    <a href="#--english---">English</a>
   </li>
   <li>
-    <a href="#Français">Français</a>
+    <a href="#--français---">Français</a>
   </li>
 </ul>
 
