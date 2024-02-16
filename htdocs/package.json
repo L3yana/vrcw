@@ -1,0 +1,11 @@
+{
+  "name": "vrcw",
+  "author": "Leyana",
+  "scripts": {
+    "csswatch": "npx tailwindcss -i ./assets/all/src/tailwind.css -o ./assets/all/css/tailwind.min.css --watch",
+    "cssbuild": "npx tailwindcss -o ./assets/all/css/tailwind.min.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}

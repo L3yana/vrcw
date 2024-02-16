@@ -1,5 +1,5 @@
 <h1>
-  Codename: Chill Leya 
+  Leyana: VRC Worlds
   <small style="font-size: 20px;">/templates</small>
 </h1>
 

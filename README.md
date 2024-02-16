@@ -1,5 +1,5 @@
 <h1>
-  Codename: Chill Leya 
+  Leyana: VRC Worlds  
   <small style="font-size: 20px;">/</small>
 </h1>
 
@@ -28,6 +28,7 @@
 archives: old folders & files now archived.
 htdocs: folders & files currently online on GitHub Pages.
 templates: used template files (.psd, .html, ...).
+textures: texture files created for and used on the map.
 ```
 
 <h2>
@@ -43,4 +44,5 @@ templates: used template files (.psd, .html, ...).
 archives: les anciens dossiers & fichiers désormais archivés.
 htdocs: les dossiers & fichiers actuellement en ligne sur le GitHub Pages.
 templates: les fichiers templates utilisés (.psd, .html, ...).
+textures: les fichiers de textures créer pour et utilisés sur la map.
 ```
