@@ -1,5 +1,5 @@
 function OpenLink({ target, event }) {
-  var shortner = "https://codename.vrchat.eu.org/leyanahome";
+  var shortner = "https://codename.vrchat.eu.org/leyanahomekit";
   switch (target) {
     case "VRChat":
       window.open(`${shortner}/vrchat`);
