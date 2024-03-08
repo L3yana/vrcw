@@ -1,4 +1,4 @@
-const mapName = "Leyana's Home";
+const mapName = "Leyana's HomeKit";
 
 const file = {
   creator: "data/worlds/all/ranks/creator.txt",
